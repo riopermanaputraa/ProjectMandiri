@@ -1,0 +1,18 @@
+-- GitHub --
+
+Testing cara Penggunaan Awal github
+1. Buat akun github terlebih dahulu
+2. Buat repositori / folder untuk menyimpan file kita
+3. Buat file baru dengan memencet tombol add-file, kemudian create new file
+
+Istilah Github
+1. repositori -> adalah folder untuk menyimpan file code kita 
+2. commit -> adalah sebuah perintah untuk merekam dari setiap perubahan yang terjadi dalam sebuah repositori
+3. hash -> adalah penanda untuk pada sebuah commit
+4. checkout -> adalah berpindah ke sebuah commit yang kita inginkan , bisa maju atau mundur
+5. branch -> adalah sebuah perintah untuk membuat cabang bebas dari sebuah commit
+6. merge -> adalah sebuah sebuah perintah untuk menggabungkan 2 atau lebih dari branch
+7. remote -> adalah sebuah sumber yang memiliki repositori
+8. clone -> mengambil repositori dari remote 
+9. push -> mengirimkan commit ke repositori
+10, pull -> mengambil commit dari repositori
