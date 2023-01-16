@@ -3,4 +3,4 @@
 - bisa dari halaman repositori , kemudian cari tombol branc pada menu kemudian pasti ada tulisan switch branches atau buat baru ketika belum ada  
 - bisa juga dari halaman edit file di scroll sampai ke bagian commit nanti ada dua pilihan yaitu brach yang utama / create new branch
 
--- Semoga bermanfaat terimakasih --
+-- Semoga bermanfaat sekian terimakasih --
